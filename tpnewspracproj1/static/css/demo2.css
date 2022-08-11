@@ -1,0 +1,11 @@
+{% load static %}
+
+}
+body{background:white;
+	color:red;
+background-image:url("images/news.jpg")
+
+}
+h2{align:center;}
+ul{align:center;}
+hr{color:green;}
