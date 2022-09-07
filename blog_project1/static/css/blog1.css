@@ -1,0 +1,46 @@
+.content{
+    width:60%;
+    float:left;
+    padding:0 0 0 30px;
+    background:hotpink;
+    height:100%;
+}
+
+.sidebar{
+    width:40%;
+    float:right;
+    padding:10px;
+    background:plum;
+    height:100%;
+    
+}
+
+h1 {
+    text-align: center;
+    border-bottom:1px solid rgb(207, 207, 207);
+    padding-bottom:10px;
+}
+
+body {
+    background-color:pink;
+   color:white;
+
+}
+
+#date{
+    color:crimson;
+    font-size: 15px;
+    font-style:italic;
+}
+
+#ch{
+    color:blueviolet;
+    font-size: 15px;
+    font-style:italic;
+}
+
+#pcount{
+    font-size: 40px;
+    color:yellow;
+    font-weight: bold;
+}
